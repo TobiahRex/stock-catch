@@ -47,7 +47,8 @@ This platform will sit atop multiple brokers' API's, and be a single source of t
        3. Has a signal initiated in the past 5 periods from custom indicator X.
      - The user now has an **RFA Customizer** setup with the following steps.
        1. If the top 3 assets on the list of results from the scan (described in the previous step) has changed, send me a text message with the following options.
-        - Mock RFA Message to User:
+
+        _Mock RFA Message to User:_
         ```
         *** ALERT ***
         Stock AAPL has been seen as the #2 stock on your current scan report.
