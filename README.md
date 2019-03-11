@@ -41,7 +41,7 @@ This platform will sit atop multiple brokers' API's, and be a single source of t
      - Based on my current performance, what is my expected growth rate in 2 years, assuming a 15% decrease in long term market trends?
      - My portfolio has decreased 15% over the last quarter, what is the recommended improvement to my risk appetite to reduce that percentage to 5% over the next quarter, assuming my confidence in current strategy is high.
   6. **RFA customizations**: Once an alert has been created on an asset from the users "WatchList", or group of assets from the users "ActiveScan" criteria, the user can automate a list of RFA's. Example.
-     - _**Scenario Setup**_ User has created a scan to detect the following stock attributes
+     - User has created a scan to detect the following stock attributes
        1. Greater than $1, and less than $5.
        2. Has volatility score greater than 3 of 5.
        3. Has a signal initiated in the past 5 periods from custom indicator X.
