@@ -20,10 +20,10 @@ Remove the multi-step, multi-platform, multi-access requirements to trade stocks
 The user is easily able to participate in stock investing with **Minimal requirements for specialized skills** of:
   1. _Digital Tools_ e.g. Composing a stock scanner with a 3rd parties proprietary platform that is variable broker-to-broker.
   2. _Scripting languages_
-  - python
-  - mql4
-  - c++
-  - R
+    - python
+    - mql4
+    - c++
+    - R
   3. _Platform Features_ setups across platforms that offer different functionality. This platform would compose and consolidate skills from all 4 broker targets.
   4. _Placing Trades_ can be difficult given the platform. It's a highly technical, highly specific process that has many optional parameters. (example of order types from TOS)[https://www.thinkorswim.com/tos/displayPage.tos?webpage=servicesOrderTypesCanada]
   5. _Portfolio Management_ can vary based on platform. This is problematic since our portfolio can be atomized across multiple platforms/brokers to truly cast the widest possible net.
